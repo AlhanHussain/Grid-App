@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Grid-App/static/css/main.0a04bae7.css",
+    "main.js": "/Grid-App/static/js/main.b7d07a46.js",
+    "static/js/787.4851f637.chunk.js": "/Grid-App/static/js/787.4851f637.chunk.js",
+    "index.html": "/Grid-App/index.html",
+    "main.0a04bae7.css.map": "/Grid-App/static/css/main.0a04bae7.css.map",
+    "main.b7d07a46.js.map": "/Grid-App/static/js/main.b7d07a46.js.map",
+    "787.4851f637.chunk.js.map": "/Grid-App/static/js/787.4851f637.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a04bae7.css",
+    "static/js/main.b7d07a46.js"
+  ]
+}
